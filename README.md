@@ -23,7 +23,7 @@
  
  ・mysql 8.0.26
 ## ER図
- ![ER図](https://github.com/nakamura-toshiki/contact-form/blob/main/.drawio.png)
+ https://github.com/nakamura-toshiki/mogitate/issues/2#issue-2613990323
 ## URL
  ・開発環境: http://localhost/
  
